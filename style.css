@@ -1,0 +1,39 @@
+
+body{
+    background:rgba(159, 203, 209, 0.388);
+    font-family:arial;
+    margin-top: 80px;
+    text-align: center;
+    font-size:50px;
+}
+
+#text-to-say{
+    text-align: center;
+  color: red;
+  font-size:40px;
+}
+
+a{font-size: 80px;
+color: rgb(255, 255, 255);
+text-align: center;
+-webkit-text-stroke-width: 4px;
+-webkit-text-stroke-color: black;}
+
+#div1{
+    color:rgb(132, 70, 132);
+    font-size:30px;
+}
+
+input[type=checkbox] {
+    width: 60px;
+    height: 60px;
+    color: black;
+ }
+
+
+ select {
+    width: 250px;
+    height:50px;
+    margin: 10px;
+    font-size: 30px;
+}
